@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="logo_name">灰色</string>
+    <string name="lg_name">蓝色</string>
+    <string name="btn1_name">点击换肤</string>
+    <string name="str_init">当前所选主题为蓝色</string>
+    <string name="input">给这个Logo起个名字吧：</string>
+</resources>
